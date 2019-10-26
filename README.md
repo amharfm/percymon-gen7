@@ -1,5 +1,5 @@
 # percymon-gen7
-an unmerged (yet?) update to rameshvarun's Percymon
+an unmerged (yet?) update to rameshvarun's Percymon, so that it's compatible with Zarel's showdown
 
 # Updates are marked with //@@ or // @@ (i forgot lol)
 
