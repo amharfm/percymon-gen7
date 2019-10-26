@@ -19,4 +19,6 @@ an unmerged (yet?) update to rameshvarun's Percymon, so that it's compatible wit
 > ./data (to match with Zarel's ./sim-dist/)
 
 # Requirements
-I think it has to be Node v10
+> I think it has to be Node v10
+
+> As far as I remember, I didn't npm install when adjusting with Zarel's files. Idk; check urself
