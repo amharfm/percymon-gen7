@@ -1,10 +1,10 @@
 # percymon-gen7
 an unmerged (yet?) update to rameshvarun's Percymon
 
-# Updates are marked with //@@ or // @@ (i forgot)
+# Updates are marked with //@@ or // @@ (i forgot lol)
 
 # files updated:
-> ./formats-data (to match with Zarel's ./sim-dist/) 
+> ./formats-data.js (to match with Zarel's ./sim-dist/) 
 
 > ./battleroom.js
 
