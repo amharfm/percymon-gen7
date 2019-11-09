@@ -22,3 +22,7 @@ an unmerged (yet?) update to rameshvarun's Percymon, so that it's compatible wit
 > I think it has to be Node v10
 
 > As far as I remember, I didn't npm install when adjusting with Zarel's files. Idk; check urself
+
+# Why Pokemon?
+
+Because one day my older brother brought me to see a pokemon movie
