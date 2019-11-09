@@ -25,4 +25,4 @@ an unmerged (yet?) update to rameshvarun's Percymon, so that it's compatible wit
 
 # Why Pokemon?
 
-Because one day my older brother brought me to see a pokemon movie
+Because once my older brother brought me to see a pokemon movie
